@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+.container {
+  background-color: burlywood;
+}
+
 .main,
 .link {
   display: block;
